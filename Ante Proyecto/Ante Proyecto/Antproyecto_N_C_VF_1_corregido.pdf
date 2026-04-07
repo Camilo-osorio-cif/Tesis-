@@ -1,1 +1,177 @@
+Evaluación comparativa de la estabilidad mecánica en alineadores de PET-G y PU-Copolímero, en procesos post termoformado y sometimiento a condiciones intraorales
+
+
+Camilo Osorio Cifuentes 2220623
+Nelson Steven Santos Gonzales 2176172
+
+Oscar Iván Campo Salazar (Director académico)
+Cristian Orlando Diaz Laverde (Asesor empresarial)
+
+
+Proyecto de Grado
+
+
+PLANTEAMIENTO DEL PROBLEMA  
+
+En los tratamientos de ortodoncia invisible, el movimiento dental depende de la interacción biomecánica entre el diente y el alineador, la cual está directamente influenciada por la acción biológica del diente sobre los tejidos periodontales y las propiedades mecánicas del material termoplástico que lo recubre [8], [9]. En este contexto, los alineadores fabricados por termoformado a partir de láminas poliméricas —ya sean monocapa o tricapa— deben ser capaces de transmitir fuerzas controladas y sostenidas para inducir desplazamientos precisos, como la torsión dental (rotación del diente alrededor de su eje longitudinal) [10].
+Sin embargo, esta acción biomecánica se enfrenta a limitaciones críticas.
+ Por un lado, las propiedades iniciales del material termoformado (módulo elástico, límite de fluencia, espesor de la lámina y grado de adaptación al modelo dental) determinan su capacidad para ejercer las fuerzas requeridas sin deformarse plásticamente [11].
+ Por otro, la acción biológica del entorno intraoral —caracterizada por variaciones térmicas, humedad constante, exposición a fuerzas repetidas de inserción y retiro, y reacciones enzimáticas o químicas de la saliva— puede alterar esas propiedades, reduciendo la rigidez, modificando el espesor efectivo o disminuyendo la resistencia a la torsión del alineador con el tiempo [12], [13].
+Este fenómeno afecta de manera distinta a los alineadores monocapa y tricapa, debido a su diferente estructura y comportamiento mecánico frente a esfuerzos cíclicos [14]. En consecuencia, pueden presentarse discrepancias entre el movimiento dental planificado digitalmente y el realmente alcanzado, generando ineficiencias en el tratamiento, mayor número de alineadores requeridos y una prolongación innecesaria del proceso clínico [15].
+Por lo tanto, es necesario comparar el desempeño de los alineadores monocapa y tricapa frente a esfuerzos físico-mecánico y condiciones de uso prolongado, con el fin de determinar si el material mantiene su forma o tiende a disminuir si módulo elástico.
+
+JUSTIFICACIÓN 
+
+La eficacia de los tratamientos de ortodoncia con alineadores invisibles depende fundamentalmente de la capacidad de cada alineador para ejercer y mantener fuerzas ortodónticas controladas y predecibles a lo largo de su uso. No obstante, existe una diferencia entre las propiedades mecánicas teóricas del material y su comportamiento real en el entorno intraoral [16]. En este sentido, estudios de la literatura reciente han mostrado diferencias significativas en la rigidez y la estabilidad mecánica entre PET-G y TPU, siendo relevante considerar tanto el grosor del material como las condiciones de carga [5], [7]; lo que justifica este estudio.
+
+Por lo tanto, este estudio busca cuantificar la degradación biomecánica de los alineadores. Al caracterizar rigurosamente las propiedades pre y post-termoformación, y deformación plástica bajo condiciones simuladas de uso, este proyecto de ingeniería biomédica busca generar datos cuantitativos y criterios de selección basados en evidencia. Los resultados permitirán:
+
+
+• Generar datos que permitan establecer límites operativos y optimizar los protocolos de uso, estableciendo los límites operativos de tiempo y activación para diferentes marcas y espesores, con el fin de maximizar la eficiencia de la fuerza aplicada y minimizar la pérdida de efectividad clínica.
+
+
+• Proveer datos objetivos para la selección informada del material y el protocolo de activación, con el fin de minimizar las desviaciones del plan de tratamiento.
+
+Objetivo general
+
+Evaluar el comportamiento biomecánico y la integridad estructural de alineadores de PET-G y PU-Copolímero, analizando el impacto del post-termoformado y el microambiente intraoral en su capacidad de transferencia de fuerzas terapéuticas.
+
+Objetivos específicos 
+
+•	Determinar las propiedades mecánicas de referencia (módulo elástico, resistencia a la tracción y dureza) de las láminas de PET-G y PU-Copolímero en su estado inicial.
+•	Cuantificar las variaciones en las propiedades físico-mecánicas de los materiales inducidas por el proceso de termoformado sobre modelos dentales estandarizados.
+•	Analizar el comportamiento de deformación plástica y fluencia (creep) de los alineadores tras ser sometidos a ciclos de carga mecánica y condiciones ambientales controladas.
+•	Comparar el desempeño de ambos materiales para establecer cuál presenta menor degradación estructural frente a las cargas requeridas para el movimiento dental.
+
+
+
+METODOLOGÍA 
+
+FASE 1 Caracterización mecánica inicial de los materiales
+Las láminas de PET-G y PU-Copolímero se acondicionan a 23 ± 2 °C y 50 ± 5 % de humedad relativa durante 48 h según normas de acondicionamiento de ensayos mecánicos de plásticos [1]. Se preparan probetas tipo I y tipo IV para espesores de 1.5mm para tracción y prismáticas para flexión mediante corte CNC con tolerancias ±0,1 mm. Para probetas de espesor de 0.5mm se elaborarán conforme a ASTM D882 [17]. Los ensayos de tracción se ejecutan en una máquina universal de ensayo Instron 3365 con celda de carga de 5 kN y velocidad de cruceta de 5 mm/min, determinando módulo elástico, resistencia máxima y elongación a la rotura conforme a ASTM D638 [1]. Para evaluar rigidez a flexión se aplica el método de tres puntos según ASTM D790 [2], y el comportamiento dinámico-viscoelástico se obtiene mediante análisis dinámico-mecánico (DMA) con equipo TA Instruments Q800 conforme a ASTM D5024 [3].
+
+FASE 2 Termoformado y evaluación postproceso
+Las láminas acondicionadas se termoforman sobre modelos dentales estandarizados usando una Erkopress Ci-motion de erkodent. Se emplean temperaturas de 160 – 180 °C para PET-G y 140 – 160 °C para PU, controladas mediante calentamiento infrarrojo para garantizar fluidez sin descomposición del polímero [6]. Tras enfriamiento a temperatura ambiente durante 10 min, los alineadores se recortan y de ellos se extraen probetas para ensayos mecánicos equivalentes a la Fase 1, permitiendo cuantificar variaciones inducidas por el proceso de termoformado.
+
+FASE 3 Simulación del microambiente intraoral y análisis de fluencia
+Los alineadores termoformados se someten a envejecimiento acelerado en cámara climática Binder KBF 240 a 37 ± 1 °C y ≥95 % de humedad relativa para simular condiciones intraorales [2], [6]. Posteriormente, se aplican cargas mecánicas constantes entre 0,5 y 2 N representativas de fuerzas ortodónticas clínicas utilizando una máquina de ensayos Instron 5943 configurada para fluencia. La deformación temporal y residual se registra mediante extensometría de alta resolución (±1 µm). Esta fase permite evaluar la estabilidad dimensional y la respuesta viscoelástica de los materiales bajo estrés prolongado de acuerdo con ASTM D2990 [4].
+
+FASE 4 Análisis comparativo del desempeño biomecánico e interpretación clínica
+Los datos experimentales se procesan mediante análisis estadístico paramétrico, específicamente a través de pruebas ANOVA con un nivel de significancia de p < 0,05. Se comparan pérdidas relativas de módulo elástico, resistencia mecánica, deformación permanente y fluencia entre PET-G y PU-Copolímero, evaluando su capacidad para mantener fuerzas terapéuticas estables tras envejecimiento simulados [5]. El análisis se orienta a determinar qué material presenta menor degradación estructural bajo condiciones de uso ortodóntico y ofrecer criterios técnicos para su selección clínica. 
+Entregable 1 
+Protocolo estandarizado de acondicionamiento y preparación de probetas, junto con banco de datos de propiedades físico-mecánicas iniciales (módulo elástico, resistencia a la tracción, elongación a la rotura y rigidez a flexión) y caracterización viscoelástica mediante DMA para materiales PET-G y PU-Copolímero en estado virgen.
+
+Entregable 2 
+Protocolo de termoformado controlado y conjunto de datos comparativos pre y postproceso, incluyendo variaciones en propiedades mecánicas y resultados de análisis térmico (DSC) para evaluar la influencia del conformado en la estructura del material.
+
+Entregable 3
+Curvas de fluencia (deformación vs. tiempo) y base de datos de deformación elástica, viscoelástica y plástica bajo condiciones simuladas intraorales (37 °C y alta humedad), con análisis del efecto de cargas constantes en la estabilidad dimensional de los alineadores.
+
+Entregable 4
+Análisis estadístico (ANOVA) y modelo comparativo del desempeño biomecánico, incluyendo evaluación de degradación estructural, pérdida de rigidez y comportamiento viscoelástico entre materiales, espesores y condiciones de uso, acompañado de informe final y una propuesta de artículo científico basado en los resultados obtenidos, en caso de ser publicables.
+
+PRESUPUESTO 
+
+
+
+ÍTEMS	
+FINANCIACIÓN
+
+	
+
+PROPIA	
+
+UAO	EXTERNA CON OTRAS INSTITUCIONES 
+
+(MASHLAB 3D ESTUDIO)
+1. Honorarios de Orientador	 $ 0	 $ 3.125.960 	 $ 3.125.960
+2. Elementos de escritorio y papelería	 $ 60.000 	 $ 0 	 $ 0 
+3. Comunicaciones (fax, correo)	 $ 80.000 	 $ 0	 $ 0
+4. Fotocopias	 $ 50.000 	 $ 0	 $ 0
+5. Bibliografía	 $ 200.000	 $ 1.100.000	 $ 0
+6. Transporte y gastos de viaje	 $ 200.000	 $ 0	 $ 0
+7. Software 	 $ 0	 $ 0	 $ 0
+8. Materiales y equipos 	 ------------------------	-----------------------	--------------------------- 
+8.1. Máquina universal Instron 3365	 $ 0	 $ 1.600.000	 $ 
+8.2. Maquina DMA	 $ 0	 $ 1.920.000	 $
+8.3. Máquina de ensayos Instron 5943	 $ 0	 $ 1.600.000	 $
+8.4. Láminas de PET-G	 $ 0	 $ 0	 $ 600.000
+8.5. Láminas de PU - Copolímero	 $ 0	 $ 0	 $ 900.000
+9. Otros (especifique)	 ------------------------	 ----------------------	 ---------------------------
+9.1. Corte CNC de alta precisión	 $ 0	 $ 0 	 $ 120.000
+9.2.  probetas de tracción y flexión	 $ 0 	 $ 0 	 $ 80.000
+Total	 $ 590.000	 $ 9.345.960	 $ 4.825.960
+Valor Total del Proyecto	$ 14.761.920	
+
+
+
+1. Honorarios de Orientador: Corresponde a la valoración económica de la supervisión técnica y académica durante las 4 fases del proyecto. Incluye el seguimiento del director Académico en la rigurosidad científica y del Asesor Empresarial en la aplicación clínica de los resultados sobre los materiales PET-G y PU-Copolímero
+5. Bibliografía: adquisición de acceso formal a las normas internacionales ASTM D882, D638, D790, D5024, D2990 y D3418. Esto garantiza que los protocolos de ensayo aplicados en las Fases 1, 2 y 3 tengan validez técnica y científica reproducible.
+7. Software: No se requiere la compra de licencias externas, ya que se utilizarán los recursos institucionales de la UAO. El procesamiento estadístico de los datos (ANOVA) y la visualización de resultados se realizarán mediante herramientas como Excel y Python.
+8. Materiales y Equipos: Este rubro se divide entre el suministro de materiales por la empresa externa y el valor de uso de la infraestructura técnica de la universidad: 
+
+- Aporte Externo (MASHLAB 3D ESTUDIO): ($1.500.000): Adquisición de láminas termoplásticas de PET-G y PU-Copolímero (tricapa). Incluye la fabricación de modelos dentales estandarizados necesarios para el termoformado en la Fase 2.
+- Aporte UAO (Valor de uso institucional): Cuantifica el uso de laboratorios durante 64 horas distribuidas en el cronograma: Fase 1: Uso de la Máquina Universal Instron 3365 y equipo DMA Q800 para caracterización inicial de tracción y comportamiento dinámico-viscoelástico. Fase 2: Evaluación postproceso de los alineadores termoformados para cuantificar variaciones mecánicas inducidas por el calor. Fase 3: Uso de la Máquina Instron 5943 para ensayos de fluencia (creep) bajo cargas ortodónticas constantes y condiciones de microambiente simulado
+9. Otros: Cubre los costos operativos de la Fase 1 y Fase 3, específicamente el corte CNC de alta precisión (±0,1 mm) para las probetas de tracción y flexión. Además, contempla los consumibles necesarios para la calibración de la cámara climática y el uso de extensómetros de alta resolución durante las pruebas de fluencia bajo condiciones intraorales simuladas.
+
+CRONOGRAMA
+Etapas / Resultados	Semanas
+	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+Fase 1: Caracterización Inicial	X	X	X	X												
+Acondicionamiento láminas	X															
+Corte CNC probetas	X	X														
+Ensayos tracción y flexión					X	X										
+Entregable 1						X										
+Fase 2: Termoformado					X	X	X	X								
+Termoformado 					X											
+Extracción probetas						X	X									
+Ensayos mecánicos DSC								X								
+Entregable 2									X							
+Fase 3: Microambiente y Fluencia									X	X	X	X				
+Envejecimiento acelerado									X	X						
+Fluencia e integridad											X	X				
+Entregable 3													X			
+Fase 4: Análisis													X	X	X	
+ANOVA													X			
+Comparaciones materiales														X		
+Informe final														X	X	
+Entregable Final															X	X
+
+
+
+BIBLIOGRAFÍA 
+
+[1] ASTM International, ASTM D638-14: Standard test method for tensile properties of plastics, ASTM, 2014. 
+
+[2] ASTM International, ASTM D790-17: Standard test methods for flexural properties of unreinforced and reinforced plastics, ASTM, 2017. 
+
+[3] ASTM International, ASTM D5024-23: Standard test method for measurement of dynamic mechanical properties of polymeric materials, ASTM, 2023. 
+
+[4] ASTM International, ASTM D2990-17: Standard test methods for tensile, compressive, and flexural creep and creep-rupture of plastics, ASTM, 2017. 
+
+[5] Liu, M., Wang, Y., Bian, C., Han, Y., Qin, X., Sun, J., Bai, Y., & Zhang, N. (2025). Comparative mechanical performance of thermoplastic materials for clear aligners under simulated oral conditions. The Korean Journal Of Orthodontics, 55(5), 380-391. https://doi.org/10.4041/kjod25.094 
+[6] Staderini, E.; Chiusolo, G.; Guglielmi, F.; Papi, M.; Perini, G.; Tepedino, M.; Gallenzi, P. Effects of Thermoforming on the Mechanical, Optical, Chemical, and Morphological Properties of PET-G: In Vitro Study. Polymers 2024, 16, 203. https://doi.org/10.3390/polym16020203
+
+[7] A. K. Papadopoulou et al., “Changes in roughness and mechanical properties of Invisalign® appliances after one- and two-weeks use,” Materials (Basel), vol. 12, no. 15, p. 2406, 2019. https://pubmed.ncbi.nlm.nih.gov/31357697/
+
+ [8] J. Li, J. Si, C. Xue, y H. Xu, «Seeking orderness out of the orderless movements: an up-to-date review of the biomechanics in clear aligners», Progress In Orthodontics, vol. 25, n.o 1, p. 44, nov. 2024, doi: 10.1186/s40510-024-00543-1.
+
+[9]J. I. Delgado, P. Kehyaian, y J. P. Fernández-Blázquez, «Thermoplastics for Clear Aligners: A Review», Polymers, vol. 17, n.o 12, p. 1681, jun. 2025, doi: https://doi.org/10.3390/ 
+ 
+[10] F. Tamburrino, V. D’Antò, R. Bucci, G. Alessandri-Bonetti, S. Barone, y A. V. Razionale, «Mechanical Properties of Thermoplastic Polymers for Aligner Manufacturing: In Vitro Study», Dentistry Journal, vol. 8, n.o 2, p. 47, mayb 2020, doi: 10.3390/dj8020047.
+
+[11] T. M. Elshazly et al., «Effect of material composition and thickness of orthodontic aligners on the transmission and distribution of forces: an in vitro study», Clinical Oral Investigations, vol. 28, n.o 5, p. 258, abr. 2024, doi: 10.1007/s00784-024-05662-x.
+
+[12] K. Siotou et al., «The Mechanical Properties of Orthodontic Aligners of Clear Aligner After Intraoral Use in Different Time Periods», Orthodontics And Craniofacial Research, vol. 28, n.o 2, pp. 253-260, oct. 2024, doi: 10.1111/ocr.12867.
+
+[13] M. Bhate y S. Nagesh, «Assessment of the Effect of Thermoforming Process and Simulated Aging on the Mechanical Properties of Clear Aligner Material», Cureus, vol. 16, n.o 7, p. e64933, jul. 2024, doi: 10.7759/cureus.64933.
+
+[14] Y. M. Bichu et al., «Advances in orthodontic clear aligner materials», Bioactive Materials, vol. 22, pp. 384-403, oct. 2022, doi: 10.1016/j.bioactmat.2022.10.006.
+
+[15] J. Monisha y E. Peter, «Efficacy of clear aligner wear protocols in orthodontic tooth movement—a systematic review», European Journal Of Orthodontics, vol. 46, n.o 3, abr. 2024, doi: 10.1093/ejo/cjae020.
+
+[16] S. Barone, A. Paoli, P. Neri, A. V. Razionale, y M. Giannese, «Mechanical and Geometrical Properties Assessment of Thermoplastic Materials for Biomedical Application», en Lecture notes in mechanical engineering, 2016, pp. 437-446. doi: 10.1007/978-3-319-45781-9_44.
+
+[17] ASTM International, ASTM D882-02: Standard Test Method for Tensile Properties of Thin Plastic Sheeting, ASTM, 2002. 
+
 
