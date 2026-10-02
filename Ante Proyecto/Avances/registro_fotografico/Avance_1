@@ -1,0 +1,42 @@
+Protocolo pruebas físico-mecánicas 
+
+En el siguiente documento se describe el protocolo empleado para la preparación y obtención de las probetas, para lo cual se tuvo en cuenta lo siguiente:
+
+1. Análisis visual del estado del material, desde su empaque
+2. método de corte, dimensiones y formas de las probetas
+3. ensayos de tracción, flexión, dureza, relajación de esfuerzos, DSC inicial, TGA inicial.
+4. métodos de descarte de ensayos 
+5.  registro de los ensayos 
+6. análisis estadístico.
+
+Para el desarrollo de estas pruebas se contó con el material suministrado por la empresa MESHLAB 3D de la ciudad de Cali, especializada en tratamientos odónticos con tecnología invisible (alineadores y retenedores), para lo cual se contó con 2 tipos de materiales con un grosor de 0.75 mm aproximadamente en presentación monocapa de PET-G y una aleación tricapa de PET-G al 70% + TPU al 30 %.
+Con base en el material disponible para los ensayos y los respectivos análisis posteriores, se realizó una inspección del estado visual del material con el fin de saber cuantos discos de cada material se encuentran disponibles para los ensayos, saber si cuentan con película protectora o no, también identificar rayones en la superficie.
+Basándonos en la norma ASTM D882, dado el espesor del material suministrado por la empresa MESHLAD 3D, y la cantidad de material que se dispone que son discos con un diámetro de 125mm, se optó por realizar tiras de 100 mm x 10 mm, utilizando como método de corte el corte por chorro de agua.
+Dentro de los ensayos realizados hasta el momento se realizaron varias pruebas piloto, con el fin de poder determinar la elongación del material, la velocidad de tensión y la distancia de las mordazas de la maquina universal INSTROM 3366, donde se realizaron pruebas de  tensión  y de flexión, obteniendo los siguientes análisis y parámetros para los ensayos:
+
+Ensayos de Tensión:
+Para esta prueba se realizaron aproximadamente 10 ensayos que permitieron determinar, el ajuste final de los parámetros de configuración definitivos en la máquina, estos ensayos también nos permitieron tener presente el punto exacto  de análisis y poder descartar las probetas que no cumplían con estas condicione.
+Las condiciones que se emplearon para cada material fueron una probeta de 100 mm x 10 mm, de grosor aproximado de 0,75 mm, una velocidad de tensión de 50mm / min, una distancia entre mordazas de 50 mm, zona de sujeción de las mordazas de 25 mm.
+Con base en los parámetros anteriores para el material monocapa conformado en su composición únicamente por PET-G, se evidencio una ruptura constante en la zona central, donde dadas las condiciones elásticas del material no se llevó a una ruptura de este si no hasta el punto donde este comenzaba a perder su integridad, es decir comenzaba a estirarse.
+Esta decisión también fue respaldada por la graficas obtenidas de la maquina donde en el momento en que el material comienza a estirarse se presenta una disminución en la tensión aplicada.
+Con el material tricapa de elección de PET-G + TPU, configurado con las mismas especificaciones del material monocapa de PET-G, se evidencio que el material se rompía cenca a la zona de sujeción pro lo que se realizaron varios ensayos pilotos donde se evidencio en todos que el material se fracturaba siempre en esta zona.
+* Ensayo de flexión:
+para el ensayo de flexión se emplearon probetas con dimensiones de 12.80 mm x 10 mm, la separación de las mordazas fue de 25 mm, velocidad de tensión de 5 mm / min.
+Para ambos materiales, se evidencio una línea que deforma el material, esta deformación acompañada con una tensión constante, para este ensayo se analizo la zona donde este dejaba de oponer resistencia para mantener su forma de una tira plana y asa a ser una tira con una ligera desviación, llevándola a un porcentaje de flexión de aproximadamente 1%.
+
+* Ensayo de dureza
+Para ambos materiales se empleó el durómetro de clase D y una pequeña porción de los residuos el cual por medio de una presión contante por un perdió de 5 seg. se mina en el manómetro del instrumento los valores que este alcanza.
+
+* Ensayo de relajación de esfuerzos.
+Pendiente.
+
+Para las condiciones de rechazo, adicional mente de la inspección física, se analizo que las probetas no se estuvieran desplazando por lo que fue necesario trazar una línea en el material donde las mordazas lo  sostienen esto con el fin de observas si estas se movía o se mantenían en su punto, dentro  de las pruebas pilotos se evidencio este fenómeno  y se buscaron alternativas  como cambiar el  tipo de mordazas a unas de goma,  emplear material abrasivo para mejorar la sujeción, aumentar el  grosor en las zonas de sujeción, en vista que el material presentaba este desplazamiento pese a las alternativas mencionadas, se cambio  de maquina pasamos de la ATME a la INSTROM donde se llevaron todos los análisis hasta el momento.
+Para los ensayos de dureza se descartaron aquellas mediciones donde se traspasaba el material.
+
+Dentros de los valores obtenidos se obtuvieron los siguientes:
+
+** insertar valores Pendiente 
+
+Con los valores obtenidos por los ensayos realizados,  se proceso de manera estadística y se pudo  obtener la variabilidad que tiene los materiales entre si obteniend los siguientes datos:
+
+** insertar datos 
