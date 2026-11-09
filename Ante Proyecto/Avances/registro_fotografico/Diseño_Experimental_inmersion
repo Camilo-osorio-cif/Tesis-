@@ -1,0 +1,27 @@
+Diseño Experimental: proceso de inversión en saliva artificial
+
+ 1\. Estudio inicial del material virgen
+
+·       Material: TPU  
+·       Condición: virgen  
+·       Tiempos de inmersión: T0, T7, T14, T21  
+·       Temperatura: 37°C  
+·       Número de probetas para estudio 5  
+·       Probetas para ajuste y parametrización: 3
+
+| Grupo de estudio | Material | Condición | Tiempo | Función | Estado |
+| :---: | :---: | ----- | ----- | ----- | ----- |
+| G1 | PETG | virgen | T0 | Control base | realizado |
+| G2 |  | Termoformado \+ inmersión | T7 | Efecto temprano de saliva y temperatura | pendiente |
+| G3 |  | Termoformado \+  inmersión | T14 | Punto intermedio | pendiente |
+| G4 |  | Termoformado \+ inmersión | T21 | Punto extendido | pendiente |
+| G5 | PETG \+ TPU | virgen | T0 | Control base | realizado |
+| G6 |  | Termoformado \+ inmersión | T7 | Efecto temprano de saliva y temperatura | pendiente |
+| G7 |  | Termoformado \+  inmersión | T14 | Punto intermedio | pendiente |
+| G8 |  | Termoformado \+ inmersión | T21 | Punto extendido | pendiente |
+
+   
+   
+ 
+
+ 
